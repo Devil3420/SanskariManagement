@@ -33,7 +33,7 @@ async def repo(client, message):
                         url="https://github.com/Devil3420/𝐒𝐀𝐍𝐒𝐊𝐀𝐑𝐈Management"),
                       
                      
-                    ),
+                    
                 ]
             ]
         ),
